@@ -6,7 +6,8 @@ categories: developer meeting
 ---
 **_Recent Go-Lives_**
 - Bueler?
-###**_Future Go-Lives, Maintenance_**
+
+**_Future Go-Lives, Maintenance_**
 * Google Fit, Accuchek data upload (CHG0025396)
 	* Go-live TBD, support model to be refined
 * ODS
@@ -14,7 +15,8 @@ categories: developer meeting
 	* Reference Lab reprocessing solution
 *  EDW:
 
-###**_In Development_**
+
+**_In Development_**
 * ODS
 	*  CLSR, APSR - Disable SSN validation 
 	* ADTRAW - Reprocess qstat 3 on patient merge (A18)
@@ -25,6 +27,7 @@ categories: developer meeting
 	* FLWEP - Clinical Observations, add LDA_ID (OBX-3-4), add CLIN_OBSERV_DTL_DESC (OBX-3-5) (CHG???)
 * CDR Oracle 12C upgrade (on hold until 17 July)
 
-###**_Announcements_**
+
+**_Announcements_**
 * Carlton out of office 20-21 July
-###**_Open Discussion_**
+**_Open Discussion_**
