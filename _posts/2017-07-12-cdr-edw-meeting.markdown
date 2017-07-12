@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wednesday, July 12 2017"
+title:  "Wednesday, July 12, 2017"
 date:   2017-07-12 11:30:00 -0700
 categories: developer meeting
 ---
