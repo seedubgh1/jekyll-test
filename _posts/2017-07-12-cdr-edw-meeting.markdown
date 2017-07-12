@@ -11,8 +11,8 @@ categories: developer meeting
 * Google Fit, Accuchek data upload (CHG0025396)
 	* Go-live TBD, support model to be refined
 * ODS
-	* TRSR: MDRH MRN logic enhancement 
-	* Reference Lab reprocessing solution
+	* TRSR: MDRH MRN logic enhancement (CHG0024876)
+	* Reference Lab reprocessing solution (CHG0026020)
 *  EDW:
 
 
