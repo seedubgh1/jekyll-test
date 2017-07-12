@@ -18,10 +18,10 @@ categories: developer meeting
 
 **_In Development_**
 * ODS
-	* CLSR, APSR - Disable SSN validation 
+	* CLSR, APSR - Disable SSN validation (CHG???)
 	* ADTRAW - Reprocess qstat 3 on patient merge (A18)
-	* LABSQ - Specimen container ID, new SAC segment
 * EDW
+	* LABSQ - Specimen container ID, new SAC segment
 	* ADT -  New req’d columns (CHG0021546)
 	* RXEP - Drop columns from table APPL_STG_QA.ORD_SRC_CD (CHG0025251)
 	* FLWEP - Clinical Observations, add LDA_ID (OBX-3-4), add CLIN_OBSERV_DTL_DESC (OBX-3-5) (CHG???)
