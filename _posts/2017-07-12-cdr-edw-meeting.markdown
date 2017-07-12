@@ -18,7 +18,7 @@ categories: developer meeting
 
 **_In Development_**
 * ODS
-	*  CLSR, APSR - Disable SSN validation 
+	* CLSR, APSR - Disable SSN validation 
 	* ADTRAW - Reprocess qstat 3 on patient merge (A18)
 	* LABSQ - Specimen container ID, new SAC segment
 * EDW
