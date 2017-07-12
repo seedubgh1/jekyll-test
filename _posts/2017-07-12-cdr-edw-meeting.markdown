@@ -4,7 +4,7 @@ title:  "2017-07-12 CDR/EDW Developer Meeting"
 date:   2017-07-12 11:30:00 -0700
 categories: developer meeting
 ---
-###**_Recent Go-Lives_**
+#**_Recent Go-Lives_**
 - Bueler?
 ###**_Future Go-Lives, Maintenance_**
 * Google Fit, Accuchek data upload (CHG0025396)
