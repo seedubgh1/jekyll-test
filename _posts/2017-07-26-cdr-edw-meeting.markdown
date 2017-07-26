@@ -16,6 +16,8 @@ categories: developer meeting
 * EDW
 	* ADT - New not null columns (OSHPD_PAYOR_CAT_CD) for batch team (CHG0023962), **_Go-Live: week of 31-Jul_**
 	* FLWEP - Clinical Observations, add LDA_ID, CLIN_OBSERV_DTL_DESC (CHG???), **_Go-Live: 1-Aug_**
+* ODS
+	* CDRC server will be stopped for maintenance at 12:00, follow job shutdown procedure in Box
   
 **_In Development_**
 * ODS
