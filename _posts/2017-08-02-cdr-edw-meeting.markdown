@@ -5,7 +5,7 @@ date:   2017-08-02 11:30:00 -0700
 categories: developer meeting
 ---
 **_Recent Go-Lives_**
-* FLWEP - Clinical Observations, add LDA_ID, CLIN_OBSERV_DTL_DESC (CHG???), **_Go-Live: 1-Aug_**
+* FLWEP - Clinical Observations, add LDA_ID, CLIN_OBSERV_DTL_DESC (CHG0027645), **_Go-Live: 1-Aug_**
 
 **_Future Go-Lives, Maintenance_**
 * Wellness Data: Google Fit, Accuchek (CHG0025396)
