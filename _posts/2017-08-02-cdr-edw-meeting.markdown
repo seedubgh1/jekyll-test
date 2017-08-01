@@ -14,7 +14,7 @@ categories: developer meeting
 	* ADT - New not null columns (OSHPD_PAYOR_CAT_CD) for batch team (CHG0023962), **_Go-Live: week of 31-Jul_**
 	* FLWEP - Clinical Observations, add LDA_ID, CLIN_OBSERV_DTL_DESC (CHG0027645), **_Go-Live: 1-Aug ish_**
 * ODS
-	* Modify interval for archiving MLSR records (CHG0027336) **_Go-Live: week of 01-Aug_**
+	* Modify interval for archiving MLSR records (CHG0027336) **_Go-Live: week of 08-Aug_**
 	* Decommission of DB link LINK_AUDIT_DI **_Go-Live: week of 08-Aug_**
   
 **_In Development_**
