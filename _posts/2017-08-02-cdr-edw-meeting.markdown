@@ -31,7 +31,7 @@ categories: developer meeting
   * New PL/SQL upload procedure for ostomy data being developed by Renier in EDWDBD
 
 **_Announcements_**
-* Carlton WFM after dentist on 4-Aug
+* Carlton WFH after dentist on 4-Aug
 
 **_Open Discussion_**
 * Conversion team update
