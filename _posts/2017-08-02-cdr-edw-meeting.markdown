@@ -11,8 +11,8 @@ categories: developer meeting
 * Wellness Data: Accuchek (CHG???)
 	* Go-live TBD, support model to be refined
 * EDW
-	* FLWEP - Clinical Observations, add LDA_ID, CLIN_OBSERV_DTL_DESC (CHG0027645), **_Go-Live: 1-Aug ish_**
-	* ADT - New not null columns (OSHPD_PAYOR_CAT_CD) for batch team (CHG0023962), **_Go-Live: week of 8-Aug_**
+	* FLWEP - Clinical Observations, add LDA_ID, re-map CLIN_OBSERV_DTL_DESC (CHG0027645), **_Go-Live: 1-Aug ish_**
+	* ADT - New not null columns (OSHPD_PAYOR_CAT_CD) for batch team (CHG0023962), **_Go-Live: 8-Aug_**
 * ODS
 	* Modify interval for archiving MLSR records (CHG0027336) **_Go-Live: week of 01-Aug_**
 	* Decommission of DB link LINK_AUDIT_DI **_Go-Live: week of 08-Aug_**
@@ -28,7 +28,7 @@ categories: developer meeting
 * CDR Oracle 12C upgrade
   * Assess chains, links, source code
 * Wellness Data: 11Health (CHG???)
-  * New PL/SQL data upload procedure for ostomy data being developed by Renier in EDWDBD
+  * New PL/SQL upload procedure for ostomy data being developed by Renier in EDWDBD
 
 **_Announcements_**
 * Carlton WFM after dentist on 4-Aug
