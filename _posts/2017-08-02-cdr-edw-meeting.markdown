@@ -24,7 +24,7 @@ categories: developer meeting
 * EDW
 	* LABSQ - Specimen container ID, new SAC segment, pending analyst validation of queue data (CHG???)
 	* ADT -  New not null columns (ADM_CONFIRM_STS_CD) for batch team (CHG0021546)
-	* RXEP - Drop columns from table (APPL_STG_QA.ORD_SRC_CD) for batch team (CHG0025251)
+	* RXEP - Drop columns from table (APPL_STG_QA.ORD_SRC_CD) for batch team (CHG0025251), currently in EDWDBT
 * CDR Oracle 12C upgrade
   * Assess chains, links, source code
 * Wellness Data: 11Health (CHG???)
