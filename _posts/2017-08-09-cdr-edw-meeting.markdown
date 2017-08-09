@@ -29,7 +29,8 @@ categories: developer meeting
 	* Accuchek (CHG???), go-live TBD, support model to be refined
 
 **_Announcements_**
-* Carlton in late after doctor on 11-Aug
+* Dennis, Carlton in late after doctor on 11-Aug
+* Ben out 6,7,8-Sep
 
 **_Open Discussion_**
 * Conversion team update
