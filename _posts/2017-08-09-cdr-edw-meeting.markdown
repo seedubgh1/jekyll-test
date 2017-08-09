@@ -32,5 +32,7 @@ categories: developer meeting
 * Dennis, Carlton in late after doctor on 11-Aug
 * Ben out 6,7,8-Sep
 
+* Enterprise GitHub is available!  Migrate repositories as you see fit.
+
 **_Open Discussion_**
 * Conversion team update
