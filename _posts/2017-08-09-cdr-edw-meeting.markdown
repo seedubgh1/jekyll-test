@@ -6,8 +6,8 @@ categories: developer meeting
 ---
 **_Recent Go-Lives_**
 * ODS
-	* Modify interval for archiving MLSR records (CHG0027336) **_go-live: week of 01-Aug_**
-	* Decommission of DB link LINK_AUDIT_DI **_go-live: week of 08-Aug_**
+	* Modify interval for archiving MLSR records (CHG0027336)
+	* Decommission of DB link LINK_AUDIT_DI
 
 **_Future Go-Lives, Maintenance_**
 * EDW
