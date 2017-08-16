@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wednesday, August 9, 2017"
-date:   2017-08-02 11:30:00 -0700
+date:   2017-08-09 11:30:00 -0700
 categories: developer meeting
 ---
 **_Recent Go-Lives_**
