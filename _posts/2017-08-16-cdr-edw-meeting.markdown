@@ -32,3 +32,4 @@ categories: developer meeting
 
 **_Open Discussion_**
 * Conversion team update
+* Jim out of office until 28-Aug, self-study until he returns
