@@ -6,9 +6,8 @@ categories: developer meeting
 ---
 **_Recent Go-Lives_**
 * EDW
-	* ADT - New not null columns (OSHPD_PAYOR_CAT_CD) for batch team (CHG0023962), **_go-live: 9-Aug_**
-	* FLWEP - Clinical Observations, add LDA_ID, re-map CLIN_OBSERV_DTL_DESC (CHG0027645), **_go-live: 9-Aug_**
-
+	* ADT - New not null columns (OSHPD_PAYOR_CAT_CD) for batch team (CHG0023962)
+	* FLWEP - Clinical Observations, add LDA_ID, re-map CLIN_OBSERV_DTL_DESC (CHG0027645)
 **_Future Go-Lives, Maintenance_**
 
 **_In Development_**
