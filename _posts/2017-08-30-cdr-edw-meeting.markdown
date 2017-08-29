@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Wednesday, August 30, 2017"
