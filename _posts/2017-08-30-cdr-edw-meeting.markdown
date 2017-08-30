@@ -14,7 +14,7 @@ categories: developer meeting
      	* Go-live date: 5-sep
 
 **_In Development_**
-
+* EDW
 	* RXEP - Drop columns from table (APPL_STG_QA.ORD_SRC_CD) for batch team (CHG0025251), currently in EDWDBT
 * CDR Oracle 12C upgrade
 	* Waiting to confirm scope and duration for FTP chain cutover
