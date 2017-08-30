@@ -9,11 +9,12 @@ categories: developer meeting
 	* ADT -  New not null columns (ADM_CONFIRM_STS_CD) for batch team (CHG0021546)
 
 **_Future Go-Lives, Maintenance_**
-
-**_In Development_**
 * EDW
 	* LABSQ - Specimen container ID, new SAC segment, pending analyst validation of queue data (CHG0026400)
-     	* in EDWDBT undergoing validation by analyst and customer
+     	* Go-live date: 5-sep
+
+**_In Development_**
+
 	* RXEP - Drop columns from table (APPL_STG_QA.ORD_SRC_CD) for batch team (CHG0025251), currently in EDWDBT
 * CDR Oracle 12C upgrade
 	* Waiting to confirm scope and duration for FTP chain cutover
