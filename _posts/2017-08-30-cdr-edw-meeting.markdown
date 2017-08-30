@@ -11,7 +11,7 @@ categories: developer meeting
 **_Future Go-Lives, Maintenance_**
 * EDW
 	* LABSQ - Specimen container ID, new SAC segment, pending analyst validation of queue data (CHG0026400)
-     	* Go-live date: 5-sep
+     	* Go-live date: 5-Sep
 
 **_In Development_**
 * EDW
