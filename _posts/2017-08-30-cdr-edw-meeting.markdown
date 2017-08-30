@@ -21,11 +21,12 @@ categories: developer meeting
 	* 11Health: New PL/SQL upload procedure for ostomy data, developed by Renier in EDWDBD
 	* Accuchek: go-live TBD, support model to be refined
   * GoogleFit: Added functionality to upload user weight, added by Renier currently in EDWDBD
+* Meeting notes: migration pending, GitHub wiki under review
 
 **_Announcements_**
 * Ben out of office 6,7,8-Sep
 
 **_Open Discussion_**
-* Deep6 extract program
+* Deep6 extract program, troubleshooting
 * Conversion team update
   * KJOC: ready to start phase one of sending to Epic/OnBase
