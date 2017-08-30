@@ -25,7 +25,7 @@ categories: developer meeting
 * Meeting notes: migration pending, GitHub wiki under review
 
 **_Announcements_**
-* Ben out of office 6,7,8-Sep
+* Ben out of office 6,7,8-Sep, Dennis to cover 6,7,8 and Carlton to cover weekend.
 
 **_Open Discussion_**
 * Deep6 extract program, troubleshooting
