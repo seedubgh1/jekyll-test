@@ -4,6 +4,8 @@ title:  "Weekly Meeting, September 06, 2017"
 date:   2017-09-06 11:30:00 -0700
 categories: developer meeting
 ---
+**NOTE: Meeting was not held due to low attendee turn-out (out of office)**
+
 **_Recent Go-Lives_**
 * Nothing for the period
 
